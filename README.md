@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tristan-Smal
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning reinforcement learning
+- 👀 I’m interested in all types of programming as long as it is a fun project :)
+- 🌱 I’m currently learning anything that interests me 
 - 📫 How to reach me tristansmal@gmail.com
 
 <!---
